@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 50%;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+.text-heading {
+  text-align: center;
+}
+.author {
+  color: orange;
+}
+.paragraf {
+  font-weight: 400;
+  text-align: justify;
+}
+.image {
+  width: 100%;
+}
+.description {
+  font-size: 10px;
+}

@@ -1,0 +1,48 @@
+#round-btn {
+  border-radius: 50px;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 16px 34px 16px 34px;
+  outline: #98aa28 solid 1px;
+}
+#round-btn:hover {
+  background-color: #98aa28;
+}
+#round-lg {
+  padding: 25px 60px 25px 60px;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 50px;
+  background: linear-gradient(328.68deg, #98aa28 13.03%, #d6ff7e 120.61%);
+  border: none;
+}
+.hero-img {
+  background-image: url("../img/hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 120vh;
+  display: block;
+}
+.nav-text {
+  font-size: 16px;
+  font-weight: 400;
+}
+.text-margin {
+  margin-top: 115px;
+}
+.top-text {
+  font-size: 32px;
+}
+.decrip-text {
+  font-size: 90px;
+  font-weight: 600;
+}
+.tagline-text {
+  font-size: 20px;
+}
+.pad-col {
+  padding: 52px 100px 52px 100px;
+}
+.bg {
+  background-color: #f6fbf9;
+}
